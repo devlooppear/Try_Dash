@@ -1,6 +1,6 @@
 # Try_Dash
 
-- Esse código foi feito como um estudo prático de formação de Dashborads. Para isso, foi usado o "Plotly", uma ferramenta de facilitação da criação do Dashborad, usando suas linhas de código padrão, que pode ser achada no site: "https://dash.plotly.com/layout". Com isso, adaptei o código para a leitura da tabela de informações, no arquivo ``Vendas.xlsx``
+- Esse código foi feito como um estudo prático de formação de Dashborads. Para isso, foi usado o "Plotly", uma ferramenta de facilitação da criação do Dashborad. Com isso, adaptei o código para a leitura da tabela de informações, no arquivo ``Vendas.xlsx``
 
 - Como usar: O código é executado pelo arquivo ``main.py``.
 
